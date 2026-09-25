@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.xr.cardboard": "file:C:/Users/santi/OneDrive/Escritorio/cardboard-xr-plugin-1.19.0",
+    "com.google.xr.cardboard": "file:C:/Users/CRISTIAN/Downloads/cardboard-xr-plugin-1.19.0/cardboard-xr-plugin-1.19.0",
     "com.unity.ai.assistant": "2.19.0-pre.2",
     "com.unity.ai.inference": "2.6.1",
     "com.unity.ai.navigation": "2.0.14",
